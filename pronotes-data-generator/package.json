@@ -1,0 +1,19 @@
+{
+  "name": "data-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "json-server index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
