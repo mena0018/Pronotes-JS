@@ -62,7 +62,7 @@ videElement(histogramme);
   let etudRang = pronotesKernel.ajouteRangParMoyenne(etudiantsPlusMoy);
    gridOptions.api.setRowData(etudRang);
 
-   creerHistogramme('Histogramme des moyennes par matière', etudiantsPlusMoy);
+   creerHistogramme('Histogramme des moyennes par élève', etudiantsPlusMoy);
 }
 
 /**
