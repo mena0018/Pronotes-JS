@@ -1,0 +1,42 @@
+[
+  {
+    "nom": "Étudiant 1",
+    "notes": [
+      { "idMatiere": 1, "valeur": 18 },
+      { "idMatiere": 2, "valeur": 13 },
+      { "idMatiere": 2, "valeur": 14 },
+      { "idMatiere": 3, "valeur": null },
+      { "idMatiere": 3, "valeur": 0 },
+      { "idMatiere": 4, "valeur": null },
+      { "idMatiere": 4, "valeur": null }
+    ]
+  },
+  {
+    "nom": "Étudiant 2",
+    "notes": [
+      { "idMatiere": 1, "valeur": null },
+      { "idMatiere": 2, "valeur": null },
+      { "idMatiere": 2, "valeur": 14 },
+      { "idMatiere": 3, "valeur": 16 },
+      { "idMatiere": 3, "valeur": 10 },
+      { "idMatiere": 4, "valeur": 0 },
+      { "idMatiere": 4, "valeur": 4 }
+    ]
+  },
+  {
+    "nom": "Étudiant 3",
+    "notes": [
+      { "idMatiere": 1, "valeur": 15 },
+      { "idMatiere": 2, "valeur": null },
+      { "idMatiere": 2, "valeur": null },
+      { "idMatiere": 3, "valeur": 16 },
+      { "idMatiere": 3, "valeur": 0 },
+      { "idMatiere": 4, "valeur": null },
+      { "idMatiere": 4, "valeur": 8 }
+    ]
+  },
+  {
+    "nom": "Étudiant 4",
+    "notes": []
+  }
+]

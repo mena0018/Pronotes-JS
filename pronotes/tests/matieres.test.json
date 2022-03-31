@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "nom": "Matière 1",
+      "coefficient": 2
+    },
+    {
+      "id": 2,
+      "nom": "Matière 2",
+      "coefficient": 4
+    },
+    {
+      "id": 3,
+      "nom": "Matière 3",
+      "coefficient": 3
+    },
+    {
+      "id": 4,
+      "nom": "Matière 4",
+      "coefficient": 2
+    },
+    {
+      "id": 5,
+      "nom": "Matière 5",
+      "coefficient": 1
+    }
+  ]

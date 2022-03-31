@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "nom": "Mathématique",
+      "coefficient": 7
+    },
+    {
+      "id": 2,
+      "nom": "Français",
+      "coefficient": 2
+    },
+    {
+      "id": 3,
+      "nom": "Histoire-Géographie",
+      "coefficient": 3
+    },
+    {
+      "id": 4,
+      "nom": "Physique-Chimie",
+      "coefficient": 5
+    },
+    {
+      "id": 5,
+      "nom": "Sciences de la vie et de la Terre",
+      "coefficient": 3
+    },
+    {
+      "id": 6,
+      "nom": "Sciences de l'ingénieur",
+      "coefficient": 3
+    },
+    {
+      "id": 7,
+      "nom": "Éducation physique et sportive",
+      "coefficient": 2
+    },
+    {
+      "id": 8,
+      "nom": "Philosophie",
+      "coefficient": 3
+    },
+    {
+      "id": 9,
+      "nom": "Langue vivante 1",
+      "coefficient": 3
+    },
+    {
+      "id": 10,
+      "nom": "Langue vivante 2",
+      "coefficient": 2
+    }
+  ]

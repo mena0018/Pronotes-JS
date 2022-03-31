@@ -1,0 +1,3562 @@
+[
+    {
+      "nom": "Kihn",
+      "prenom": "Kayli",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 19,
+          "note": 0
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5,
+          "note": null
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 11
+        }
+      ]
+    },
+    {
+      "nom": "Windler",
+      "prenom": "Billy",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 8,
+          "note": 0
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 15,
+          "note": null
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 9
+        }
+      ]
+    },
+    {
+      "nom": "Heathcote",
+      "prenom": "Abdiel",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12.5,
+          "note": 0
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 18.5,
+          "note": null
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 19
+        }
+      ]
+    },
+    {
+      "nom": "Weber",
+      "prenom": "Winifred",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 15.5,
+          "note": 0
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 12,
+          "note": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 8.5
+        }
+      ]
+    },
+    {
+      "nom": "Mosciski",
+      "prenom": "Pearl",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 7,
+          "note": 0
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": null
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 12,
+          "note": null
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 9.5
+        }
+      ]
+    },
+    {
+      "nom": "Hoeger",
+      "prenom": "Lilliana",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 16,
+          "note": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 1,
+          "note": 0
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 11
+        }
+      ]
+    },
+    {
+      "nom": "Bailey",
+      "prenom": "Jan",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16,
+          "note": null
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 13,
+          "note": 0
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": null
+        }
+      ]
+    },
+    {
+      "nom": "Gleichner",
+      "prenom": "Henriette",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 4,
+          "note": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 5,
+          "note": 0
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 9,
+          "valeur": null
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 3.5
+        }
+      ]
+    },
+    {
+      "nom": "Schuppe",
+      "prenom": "Amina",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 1
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 17
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 19,
+          "note": 0
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 6,
+          "valeur": null
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5,
+          "note": null
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 4
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 18
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 14.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 10.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 11
+        }
+      ]
+    },
+    {
+      "nom": "Blanda",
+      "prenom": "Freddie",
+      "notes": [
+        {
+          "idMatiere": 1,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 1,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 5
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 8,
+          "note": 0
+        },
+        {
+          "idMatiere": 2,
+          "valeur": 15.5
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 3,
+          "valeur": null
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 19.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 4,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 9
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 2
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 19
+        },
+        {
+          "idMatiere": 5,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 13.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 3
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 4.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 14
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 6,
+          "valeur": 8
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 18.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 6
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 11
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 8.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 10
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 7,
+          "valeur": 12
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 15,
+          "note": null
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 7.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 8,
+          "valeur": 9.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 13
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 6.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 0
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 12.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 11.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 16.5
+        },
+        {
+          "idMatiere": 9,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 15
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 1.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 3.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 0.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 7
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 5.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 17.5
+        },
+        {
+          "idMatiere": 10,
+          "valeur": 9
+        }
+      ]
+    }
+  ]
