@@ -3,73 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Essai de la bibliothèque pronotes</title>
-    <style>
-      body {
-        margin: auto;
-        max-width: 900px;
-      }
-      div.principal {
-        display: flex;
-        flex-direction: row;
-        border-top: 2px solid #b6c2b6;
-        border-bottom: 2px solid #b6c2b6;
-      }
-      div.etudiants, div.matieres {
-        display: flex;
-        flex-direction: column;
-        padding: .25em;
-      }
-      div.etudiants {
-        flex: 1;
-        border-left: 1px solid #b6c2b6;
-      }
-      div.vues {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: flex-end;
-        border-top: 2px solid grey;
-        border-bottom: 2px solid grey ;
-        margin-bottom: 10px; 
-       }
-      div.vues input {
-        background: #ececec;
-        margin: 0.5em;
-        height: 2rem;
-        width: 12rem;
-      }
-      .etudiant {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        padding: 0.7em;
-      }
-      h1 {
-        text-align: center;
-        font-size: 1.6em;
-      }
-      h1 span {
-        color: green;
-        font-style: italic;
-      }
-      .warning {
-        color: orange;
-      }
-      input[type="button"] {
-        border: 1px solid #b6c2b6;
-        border-radius: .25em;
-        background-color: transparent;
-        padding: .25em;
-        cursor: pointer;
-        font-family: inherit;
-      }
-      input[type="button"] + input[type="button"] {
-        margin-top: .25em;
-      }
-      input[type="button"]:hover {
-        background-color: #b6c2b6;
-      }
-    </style>
+    <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
     <h1>Résultats <span></span></h1>
@@ -87,9 +21,6 @@
 
     <script src="https://unpkg.com/ag-charts-community/dist/ag-charts-community.min.js"></script>
     <script src="http://localhost:5000/pronotesKernel.js"></script>
-
-    <!-- pour travailler depuis chez moi car le port 5000 n'étais pas dispo-->
-    <!-- <script src="http://localhost:49369/pronotesKernel.js"></script> -->
     <script src="script.js"></script>
     <script>
       const fetchEtudiants = fetch("http://localhost:3000/etudiants").then(resp => resp.json());
